@@ -3,7 +3,7 @@
 
 ### 광고 붙이기 
 * 카카오 애드핏: https://adfit.kakao.com/
-* ~~UTM 추적 코드: https://www.likelion.net/catalog/Q291cnNlTm9kZTpqbW9r?utm_source=animal_test&utm_medium=web_lecture&utm_campaign=jocoding~~
+* UTM 추적 코드: https://www.likelion.net/catalog/Q291cnNlTm9kZTpqbW9r?utm_source=animal_test&utm_medium=web_lecture&utm_campaign=jocoding
 
 
 ### 내 사이트가 검색되게 만들기
